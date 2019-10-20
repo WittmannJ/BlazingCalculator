@@ -8,9 +8,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/BlazingCalculator/",
   "background_color": "#3a0647",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/BlazingCalculator/",
   "theme_color": "#3a0647"
 }
